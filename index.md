@@ -3,10 +3,16 @@ title: Home
 layout: home
 ---
 
-Hi there! Welcome to the NFCogos ecosystem documentation. At the moment the ecosystem is conformed by two apps:
+# Welcome to the NFCogos docs!
 
-- NFCogos for businesses: Either you are a growing company, you own a dispensary or you work in the industry, this app helps you be in control of your production and to administrate your store.
-- Cogomap by NFCogos: This is a dispensary map and cannabis social network. Companies that verify their Google Maps store from NFCogos for businesses will appear listed in the Cogomap, alongside with their products and contact information.
+Hi there! Welcome to the NFCogos ecosystem documentation.
+
+## NFCogos apps
+
+At the moment the ecosystem is conformed by two apps:
+
+- **NFCogos for businesses:** Either you are a growing company, you own a dispensary or you work in the industry, this app helps you be in control of your production and to administrate your store.
+- **Cogomap by NFCogos:** This is a dispensary map and cannabis social network. Companies that verify their Google Maps store from NFCogos for businesses will appear listed in the Cogomap, alongside with their products and contact information.
 
 ---
 
