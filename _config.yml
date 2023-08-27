@@ -1,6 +1,6 @@
 title: NFCogos docs
 description: The global cannabis ecosystem
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 url: docs.nfcogos.com
 
