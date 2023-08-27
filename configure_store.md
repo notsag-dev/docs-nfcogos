@@ -1,11 +1,12 @@
 ---
 title: Set up your store
 layout: home
+nav_order: 2
 ---
 
 # Set up your store
 
-Setting up your NFCogos store is very simple:
+To set up your NFCogos store you will have to follow these simple steps:
 
 ## Install NFCogos for businesses
 
